@@ -16,7 +16,8 @@
         app:tabGravity="fill"
         app:tabMode="fixed"
         app:tabSelectedTextColor="#000"
-        app:tabTextColor="#fff">
+        app:tabTextColor="#fff"
+        app:tabIndicatorHeight="5dp">
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/tabRed"
